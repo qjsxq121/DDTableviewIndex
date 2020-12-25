@@ -1,4 +1,4 @@
-# DDTableviewIndex
+# DDTableviewIndex。自定义索引
 最近看了很多关于tableview自定义索引的代码。但是很多都不明确，或者耦合性高，并不能满足可拆分的原则。
 我们只要引入头文件，甚至只需要一行代码就可以让tableview的索引有背景颜色。
 
